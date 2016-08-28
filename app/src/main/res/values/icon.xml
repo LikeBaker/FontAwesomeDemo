@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_a">&#xf26e;</string>
+    <string name="icon_b">&#xf042;</string>
+    <string name="icon_c">&#xf170;</string>
+    <string name="icon_d">&#xf037;</string>
+    <string name="icon_e">&#xf039;</string>
+    <string name="icon_f">&#xf038;</string>
+    <string name="icon_g">&#xf270;</string>
+    <string name="icon_h">&#xf0f9;</string>
+    <string name="icon_i">&#xf2a3;</string>
+    <string name="icon_j">&#xf209;</string>
+    <string name="icon_k">&#xf103;</string>
+    <string name="icon_l">&#xf100;</string>
+    <string name="icon_m">&#xf101;</string>
+    <string name="icon_n">&#xf102;</string>
+    <string name="icon_o">&#xf107;</string>
+    <string name="icon_p">&#xf104;</string>
+    <string name="icon_q">&#xf105;</string>
+    <string name="icon_r">&#xf106;</string>
+    <string name="icon_s">&#xf179;</string>
+    <string name="icon_t">&#xf187;</string>
+    <string name="icon_u">&#xf1fe;</string>
+    <string name="icon_v">&#xf0ab;</string>
+    <string name="icon_w">&#xf1b9;</string>
+    <string name="icon_x">&#xf0fc;</string>
+    <string name="icon_y">&#xf24c;</string>
+    <string name="icon_z">&#xf13a;</string>
+    <string name="icon_end">&#xf008;</string>
+</resources>
